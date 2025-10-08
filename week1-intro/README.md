@@ -15,9 +15,14 @@ Add your screenshots here later:
 - TryHackMe badge  
 - ipconfig result  
 - ping test  
-- traceroute result  
+- traceroute result
+
+- - ![ipconfig result](screenshots/week1-ipconfig.png)
+
 
 ## Learnings
 - Understood how each OSI layer works.  
 - Learned to check IP configuration and test connectivity.  
 - Understood difference between local and external connectivity.
+
+
