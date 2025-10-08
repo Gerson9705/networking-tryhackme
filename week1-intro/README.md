@@ -13,7 +13,6 @@ Understand the OSI model and perform basic TCP/IP diagnostics (ping, traceroute,
 ## Results   
 Add your screenshots here later:
 - TryHackMe badge  
-- ipconfig result
 - [ipconfig result](screenshots/week1-ipconfig.png) 
 - ping test  
 - traceroute result
