@@ -13,7 +13,8 @@ Understand the OSI model and perform basic TCP/IP diagnostics (ping, traceroute,
 ## Results   
 Add your screenshots here later:
 - TryHackMe badge  
-- ipconfig result  
+- ipconfig result
+- ![ipconfig result](screenshots/week1-ipconfig.png) 
 - ping test  
 - traceroute result
 
@@ -25,11 +26,7 @@ Add your screenshots here later:
 - Understood difference between local and external connectivity.
 
 
-  RESULTS (EVIDENCE)
 
-  - Ipconfig result
-  -
-  - ![ipconfig result](screenshots/week1-ipconfig.png)
 
 
 
