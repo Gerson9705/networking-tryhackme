@@ -10,19 +10,26 @@ Understand the OSI model and perform basic TCP/IP diagnostics (ping, traceroute,
    - `ping 8.8.8.8`
    - `tracert 8.8.8.8`
 
-## Results
+## Results   
 Add your screenshots here later:
 - TryHackMe badge  
 - ipconfig result  
 - ping test  
 - traceroute result
 
-- - ![ipconfig result](screenshots/week1-ipconfig.png)
 
 
 ## Learnings
 - Understood how each OSI layer works.  
 - Learned to check IP configuration and test connectivity.  
 - Understood difference between local and external connectivity.
+
+
+  RESULTS (EVIDENCE)
+
+  - Ipconfig result
+  -
+  - (screenshots/week1-ipconfig.png)
+
 
 
