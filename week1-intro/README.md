@@ -29,7 +29,7 @@ Add your screenshots here later:
 
   - Ipconfig result
   -
-  - (screenshots/week1-ipconfig.png)
+  - ![ipconfig result](screenshots/week1-ipconfig.png)
 
 
 
