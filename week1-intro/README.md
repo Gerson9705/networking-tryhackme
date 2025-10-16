@@ -15,7 +15,7 @@ Add your screenshots here later:
 - TryHackMe badge  
 - [ipconfig result](screenshots/week1-ipconfig.png) 
 - ping test  
-- traceroute result
+- [traceroute result](screenshots/week1-tracert.png)
 
 
 
